@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Septic Truck vs. The Train: A Case Study in Poor Life Choices"
-date: 2026-05-27
+date: 2026-05-26
 ---
 
 We've all been in a hurry. You're late, the light is red, and you start calculating the risks. But most of us draw the line at "trying to outrun a train in a septic truck."

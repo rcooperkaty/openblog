@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Roundabout Roulette: A Modern Tragedy"
-date: 2026-05-29
+date: 2026-05-26
 ---
 
 Roundabouts were designed to make traffic flow smoothly. They were not designed as launching pads for sedans trying to ignore the laws of geometry.
